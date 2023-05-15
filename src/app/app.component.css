@@ -1,0 +1,44 @@
+.background{
+    background-color:rgb(194,139,96)
+}
+
+
+/* banner */
+ 
+
+  .image {
+    width: 100%;
+  }
+
+
+
+  .btn-custom {
+    position: relative;
+    transition: transform 0.3s;
+  }
+  .btn-custom:hover {
+    transform: translateX(5px);
+  }
+  .btn-custom .arrow-icon {
+    transition: margin-left 0.3s;
+  }
+  .btn-custom:hover .arrow-icon {
+    margin-left: 5px;
+  }
+
+  .news{
+    background-color:rgb(194,139,96)
+}
+
+
+.success {
+    color: green;
+  }
+  
+  .error {
+    color: red;
+  }
+
+  .nav-link:hover{
+    color:green;
+}
